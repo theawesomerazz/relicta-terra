@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="audioapi.css" />
+	</head>
+	<body style="background-color:black">
+		<canvas id="audioAPI" width="500" height="500"></canvas>
+		<script src="audioAPI_aubreyjoseph.js"></script>
+	</body>
+</html>
